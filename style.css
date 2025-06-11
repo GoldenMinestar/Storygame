@@ -1,0 +1,35 @@
+ body {
+            font-family: 'Roboto', sans-serif;
+            background-color: rgb(128, 164, 243);
+            color: white;
+            font-size: 20px;
+        }
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: gainsboro;
+}
+
+.storyImage {
+   width: 100%;
+   border-radius: 10px;
+   max-height: 700px;
+   object-fit: cover;
+}
